@@ -32,3 +32,12 @@ if (changed) {
 } else {
   console.log('✅ app.json 无需修复');
 }
+
+// 生成 project.private.config.json
+const distDir = path.join(__dirname, 'dist', 'build', 'mp-weixin')
+const privateConfPath = path.join(distDir, 'project.private.config.json')
+if (!fs.existsSync(privateConfPath)) {
+  const conf = { description: '懒觉王比赛', projectname: '懒觉王比赛', setting: { compileHotReLoad: true, urlCheck: false } }
+  fs.writeFileSync(privateConfPath, JSON.stringify(conf, null, 2), 'utf8')
+  console.log('✅ project.private.config.json 已生成')
+}
