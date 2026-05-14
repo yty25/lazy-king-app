@@ -1,0 +1,24 @@
+{
+  "name": "lazy-king-app",
+  "version": "1.0.0",
+  "description": "懒觉王比赛 - 微信小程序",
+  "private": true,
+  "scripts": {
+    "dev:mp-weixin": "uni -p mp-weixin",
+    "build:mp-weixin": "uni build -p mp-weixin"
+  },
+  "dependencies": {
+    "pinia": "^2.1.7",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@dcloudio/uni-app": "3.0.0-alpha-5000920260512001",
+    "@dcloudio/uni-mp-weixin": "3.0.0-alpha-5000920260512001",
+    "@dcloudio/uni-stat": "3.0.0-alpha-5000920260512001",
+    "@dcloudio/vite-plugin-uni": "3.0.0-alpha-5000920260512001",
+    "miniprogram-api-typings": "^3.9.1",
+    "sass": "^1.69.5",
+    "sass-loader": "^13.3.2",
+    "vite": "^5.0.10"
+  }
+}

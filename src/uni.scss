@@ -1,0 +1,50 @@
+/* 全局样式变量 - 懒觉王比赛 */
+
+// 主色
+$primary-color: #FF6B35;       // 活力橙
+$secondary-color: #2EC4B6;     // 蓝绿
+$accent-color: #FFD166;        // 亮黄
+$danger-color: #EF476F;        // 玫红
+
+// 背景色
+$bg-dark: #1a1a2e;             // 深色背景
+$bg-card: #16213e;             // 卡片背景
+$bg-card-hover: #0f3460;       // 卡片悬停
+$bg-input: #0f3460;            // 输入框背景
+
+// 文字色
+$text-primary: #ffffff;         // 主文字
+$text-secondary: #a0a0c0;      // 次要文字
+$text-muted: #6c6c8a;          // 辅助文字
+$text-accent: #FF6B35;         // 强调文字
+
+// 间距
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 32px;
+
+// 圆角
+$radius-sm: 8px;
+$radius-md: 12px;
+$radius-lg: 16px;
+$radius-xl: 24px;
+
+// 字体大小
+$font-xs: 12px;
+$font-sm: 14px;
+$font-md: 16px;
+$font-lg: 20px;
+$font-xl: 24px;
+$font-xxl: 32px;
+
+// 阴影
+$shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.15);
+$shadow-md: 0 4px 16px rgba(0, 0, 0, 0.2);
+$shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.3);
+
+// 渐变
+$gradient-primary: linear-gradient(135deg, #FF6B35, #EF476F);
+$gradient-secondary: linear-gradient(135deg, #2EC4B6, #11998e);
+$gradient-gold: linear-gradient(135deg, #FFD700, #FFA500);

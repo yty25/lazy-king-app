@@ -1,0 +1,4085 @@
+{
+  "records": [
+    {
+      "date": "2024-12-30",
+      "rankings": {
+        "kyle": 3,
+        "cj": 1,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2024-12-31",
+      "rankings": {
+        "kyle": 5,
+        "cj": 2,
+        "baoxuan": 10,
+        "cong": 3,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-01",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 7,
+        "cong": 3,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-02",
+      "rankings": {
+        "kyle": 5,
+        "cj": 2,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 10,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-01-03",
+      "rankings": {
+        "kyle": 5,
+        "cj": 2,
+        "baoxuan": 10,
+        "cong": 3,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-04",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 5,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-05",
+      "rankings": {
+        "kyle": 7,
+        "cj": 10,
+        "baoxuan": 2,
+        "cong": 3,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-06",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 7,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-07",
+      "rankings": {
+        "kyle": 10,
+        "cj": 1,
+        "baoxuan": 5,
+        "cong": 3,
+        "yty": 2,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-01-08",
+      "rankings": {
+        "kyle": 5,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 7,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-09",
+      "rankings": {
+        "kyle": 2,
+        "cj": 3,
+        "baoxuan": 10,
+        "cong": 5,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-10",
+      "rankings": {
+        "kyle": 3,
+        "cj": 2,
+        "baoxuan": -10,
+        "cong": 5,
+        "yty": 7,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-01-11",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 5,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-12",
+      "rankings": {
+        "kyle": 7,
+        "cj": 5,
+        "baoxuan": 2,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-13",
+      "rankings": {
+        "kyle": 5,
+        "cj": 3,
+        "baoxuan": 10,
+        "cong": 2,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-14",
+      "rankings": {
+        "kyle": 2,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 7,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-01-15",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 2,
+        "yty": 7,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-01-16",
+      "rankings": {
+        "kyle": 5,
+        "cj": 2,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-17",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-18",
+      "rankings": {
+        "kyle": 5,
+        "cj": 1,
+        "baoxuan": 3,
+        "cong": 10,
+        "yty": 2,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-01-19",
+      "rankings": {
+        "kyle": 3,
+        "cj": 10,
+        "baoxuan": 2,
+        "cong": 5,
+        "yty": 7,
+        "issac": 0
+      }
+    },
+    {
+      "date": "2025-01-20",
+      "rankings": {
+        "kyle": 2,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-21",
+      "rankings": {
+        "kyle": 7,
+        "cj": 1,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 2,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-01-22",
+      "rankings": {
+        "kyle": 5,
+        "cj": 2,
+        "baoxuan": 3,
+        "cong": 7,
+        "yty": 1,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-01-23",
+      "rankings": {
+        "kyle": 3,
+        "cj": 1,
+        "baoxuan": 2,
+        "cong": 10,
+        "yty": 5,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-01-24",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-01-25",
+      "rankings": {
+        "kyle": 3,
+        "cj": 1,
+        "baoxuan": 2,
+        "cong": 10,
+        "yty": 5,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-01-26",
+      "rankings": {
+        "kyle": 7,
+        "cj": 1,
+        "baoxuan": 3,
+        "cong": 10,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-01-27",
+      "rankings": {
+        "kyle": 5,
+        "cj": 2,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-28",
+      "rankings": {
+        "kyle": 10,
+        "cj": 7,
+        "baoxuan": 3,
+        "cong": 2,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-29",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 3,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-30",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 3,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-01-31",
+      "rankings": {
+        "kyle": 3,
+        "cj": 2,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-02-01",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-02-02",
+      "rankings": {
+        "kyle": 3,
+        "cj": 7,
+        "baoxuan": 5,
+        "cong": 2,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-02-03",
+      "rankings": {
+        "kyle": 2,
+        "cj": 10,
+        "baoxuan": 1,
+        "cong": 5,
+        "yty": 7,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-02-04",
+      "rankings": {
+        "kyle": 5,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 7,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-02-05",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 1,
+        "cong": 7,
+        "yty": 10,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-02-06",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 1,
+        "cong": 10,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-02-07",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-02-08",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 3,
+        "cong": 7,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-02-09",
+      "rankings": {
+        "kyle": 3,
+        "cj": 1,
+        "baoxuan": 5,
+        "cong": 7,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-02-10",
+      "rankings": {
+        "kyle": 1,
+        "cj": 7,
+        "baoxuan": 2,
+        "cong": 5,
+        "yty": 10,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-02-11",
+      "rankings": {
+        "kyle": 3,
+        "cj": 10,
+        "baoxuan": 2,
+        "cong": 5,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-02-12",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-02-13",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 3,
+        "cong": 1,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-02-14",
+      "rankings": {
+        "kyle": 1,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 3,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-02-15",
+      "rankings": {
+        "kyle": 1,
+        "cj": 5,
+        "baoxuan": 3,
+        "cong": 10,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-02-16",
+      "rankings": {
+        "kyle": 7,
+        "cj": 5,
+        "baoxuan": 2,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-02-17",
+      "rankings": {
+        "kyle": 1,
+        "cj": 10,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 5,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-02-18",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-02-19",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-02-20",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 5,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-02-21",
+      "rankings": {
+        "kyle": 1,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 3,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "rankings": {
+        "kyle": 10,
+        "cj": 1,
+        "baoxuan": 2,
+        "cong": 7,
+        "yty": 3,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "rankings": {
+        "kyle": 10,
+        "cj": 1,
+        "baoxuan": 5,
+        "cong": 2,
+        "yty": 3,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-02-24",
+      "rankings": {
+        "kyle": 1,
+        "cj": 7,
+        "baoxuan": 5,
+        "cong": 3,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-02-25",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-02-26",
+      "rankings": {
+        "kyle": 5,
+        "cj": 10,
+        "baoxuan": 2,
+        "cong": 3,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-02-27",
+      "rankings": {
+        "kyle": 1,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 3,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-02-28",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-03-01",
+      "rankings": {
+        "kyle": 2,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-03-02",
+      "rankings": {
+        "kyle": 1,
+        "cj": 5,
+        "baoxuan": 2,
+        "cong": 7,
+        "yty": 3,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-03-03",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 7,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-03-04",
+      "rankings": {
+        "kyle": 2,
+        "cj": 3,
+        "baoxuan": 10,
+        "cong": 5,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-03-05",
+      "rankings": {
+        "kyle": 1,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 3,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-03-06",
+      "rankings": {
+        "kyle": 1,
+        "cj": 2,
+        "baoxuan": 3,
+        "cong": 5,
+        "yty": 10,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-03-07",
+      "rankings": {
+        "kyle": 7,
+        "cj": 5,
+        "baoxuan": 3,
+        "cong": 2,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-03-08",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 5,
+        "yty": 1,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-03-09",
+      "rankings": {
+        "kyle": 1,
+        "cj": 10,
+        "baoxuan": 3,
+        "cong": 7,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-03-10",
+      "rankings": {
+        "kyle": 2,
+        "cj": 7,
+        "baoxuan": 3,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-03-11",
+      "rankings": {
+        "kyle": 1,
+        "cj": 10,
+        "baoxuan": 3,
+        "cong": 7,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-03-12",
+      "rankings": {
+        "kyle": 1,
+        "cj": 7,
+        "baoxuan": 5,
+        "cong": 2,
+        "yty": 10,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-03-13",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 1,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-03-14",
+      "rankings": {
+        "kyle": 2,
+        "cj": 7,
+        "baoxuan": 10,
+        "cong": 1,
+        "yty": 5,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-03-15",
+      "rankings": {
+        "kyle": 1,
+        "cj": 10,
+        "baoxuan": 5,
+        "cong": 3,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-03-16",
+      "rankings": {
+        "kyle": 2,
+        "cj": 1,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 3,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-03-17",
+      "rankings": {
+        "kyle": 5,
+        "cj": 10,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 1,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-03-18",
+      "rankings": {
+        "kyle": 2,
+        "cj": 3,
+        "baoxuan": 10,
+        "cong": 7,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-03-19",
+      "rankings": {
+        "kyle": 5,
+        "cj": 7,
+        "baoxuan": 10,
+        "cong": 1,
+        "yty": 2,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-03-20",
+      "rankings": {
+        "kyle": 1,
+        "cj": 7,
+        "baoxuan": 10,
+        "cong": 2,
+        "yty": 3,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-03-21",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 2,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-03-22",
+      "rankings": {
+        "kyle": 10,
+        "cj": 7,
+        "baoxuan": 3,
+        "cong": 5,
+        "yty": 1,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 7,
+        "yty": 1,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-03-24",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 2,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-03-25",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-03-26",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 5,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-03-27",
+      "rankings": {
+        "kyle": 2,
+        "cj": 7,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 10,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-03-28",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-03-29",
+      "rankings": {
+        "kyle": 1,
+        "cj": 7,
+        "baoxuan": 2,
+        "cong": 10,
+        "yty": 5,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-03-30",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 1,
+        "cong": 3,
+        "yty": 5,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-03-31",
+      "rankings": {
+        "kyle": 3,
+        "cj": 2,
+        "baoxuan": 10,
+        "cong": 5,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-04-02",
+      "rankings": {
+        "kyle": 5,
+        "cj": 1,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 10,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-04-03",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 3,
+        "cong": 10,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-04-04",
+      "rankings": {
+        "kyle": 3,
+        "cj": 7,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-04-05",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 1,
+        "yty": 7,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-04-06",
+      "rankings": {
+        "kyle": 1,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 3,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-04-07",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 3,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-04-08",
+      "rankings": {
+        "kyle": 5,
+        "cj": 1,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 10,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-04-09",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 3,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-04-10",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 2,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-04-11",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-04-12",
+      "rankings": {
+        "kyle": 3,
+        "cj": 1,
+        "baoxuan": 5,
+        "cong": 7,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-04-13",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 2,
+        "cong": 10,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-04-14",
+      "rankings": {
+        "kyle": 1,
+        "cj": 10,
+        "baoxuan": 5,
+        "cong": 3,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-04-15",
+      "rankings": {
+        "kyle": 3,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-04-16",
+      "rankings": {
+        "kyle": 5,
+        "cj": 3,
+        "baoxuan": 10,
+        "cong": 1,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-04-17",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 2,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-04-18",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 1,
+        "cong": 2,
+        "yty": 5,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-04-19",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 3,
+        "cong": 1,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-04-20",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 1,
+        "cong": 2,
+        "yty": 5,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-04-21",
+      "rankings": {
+        "kyle": 2,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 5,
+        "yty": 10,
+        "issac": 0
+      }
+    },
+    {
+      "date": "2025-04-22",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-04-23",
+      "rankings": {
+        "kyle": 1,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 3,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-04-24",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-04-25",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 0,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-04-26",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 3,
+        "cong": 1,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-04-27",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 3,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-04-28",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 7,
+        "cong": 3,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-04-29",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 3,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-04-30",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-05-01",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-05-02",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 3,
+        "cong": 1,
+        "yty": 5,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-05-03",
+      "rankings": {
+        "kyle": 3,
+        "cj": 1,
+        "baoxuan": 2,
+        "cong": 7,
+        "yty": 5,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-05-04",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-05-05",
+      "rankings": {
+        "kyle": 7,
+        "cj": 10,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 3,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-05-06",
+      "rankings": {
+        "kyle": 7,
+        "cj": 10,
+        "baoxuan": 5,
+        "cong": 3,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-05-07",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 2,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-05-08",
+      "rankings": {
+        "kyle": 5,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 1,
+        "yty": 10,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-05-09",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 7,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-05-10",
+      "rankings": {
+        "kyle": 7,
+        "cj": 5,
+        "baoxuan": 1,
+        "cong": 2,
+        "yty": 3,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-05-11",
+      "rankings": {
+        "kyle": 7,
+        "cj": 1,
+        "baoxuan": 2,
+        "cong": 3,
+        "yty": 5,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-05-12",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 10,
+        "cong": 5,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-05-13",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 10,
+        "cong": 2,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-05-14",
+      "rankings": {
+        "kyle": 5,
+        "cj": 2,
+        "baoxuan": 3,
+        "cong": 7,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-05-15",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 2,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-05-16",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-05-17",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-05-18",
+      "rankings": {
+        "kyle": 10,
+        "cj": 1,
+        "baoxuan": 7,
+        "cong": 3,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-05-19",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 3,
+        "cong": 1,
+        "yty": 10,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-05-20",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 3,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-05-21",
+      "rankings": {
+        "kyle": 7,
+        "cj": 1,
+        "baoxuan": 3,
+        "cong": 5,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-05-22",
+      "rankings": {
+        "kyle": 2,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 10,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-05-23",
+      "rankings": {
+        "kyle": 0,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-05-24",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 1,
+        "cong": 10,
+        "yty": 5,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-05-25",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 1,
+        "cong": 10,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-05-26",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-05-27",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-05-28",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-05-29",
+      "rankings": {
+        "kyle": 7,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 3,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-05-30",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 3,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-05-31",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 1,
+        "yty": 5,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-06-01",
+      "rankings": {
+        "kyle": 7,
+        "cj": 1,
+        "baoxuan": 2,
+        "cong": 5,
+        "yty": 3,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-06-02",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-06-03",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-06-04",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-06-05",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 2,
+        "cong": 1,
+        "yty": 7,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-06-06",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 7,
+        "yty": 2,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-06-07",
+      "rankings": {
+        "kyle": 2,
+        "cj": 10,
+        "baoxuan": 5,
+        "cong": 3,
+        "yty": 1,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-06-08",
+      "rankings": {
+        "kyle": 1,
+        "cj": 7,
+        "baoxuan": 10,
+        "cong": 5,
+        "yty": 2,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-06-09",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 3,
+        "cong": 7,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-06-10",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 2,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-06-11",
+      "rankings": {
+        "kyle": 5,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-06-12",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-06-13",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 10,
+        "cong": 2,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-06-14",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 3,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-06-15",
+      "rankings": {
+        "kyle": 10,
+        "cj": 1,
+        "baoxuan": 2,
+        "cong": 5,
+        "yty": 3,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-06-16",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 3,
+        "cong": 7,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-06-17",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 3,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-06-18",
+      "rankings": {
+        "kyle": 7,
+        "cj": 10,
+        "baoxuan": 5,
+        "cong": 2,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-06-19",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 7,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-06-20",
+      "rankings": {
+        "kyle": 2,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-06-21",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 2,
+        "cong": 3,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-06-22",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-06-23",
+      "rankings": {
+        "kyle": 1,
+        "cj": 10,
+        "baoxuan": 2,
+        "cong": 3,
+        "yty": 7,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-06-24",
+      "rankings": {
+        "kyle": 2,
+        "cj": 7,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-06-25",
+      "rankings": {
+        "kyle": 10,
+        "cj": 1,
+        "baoxuan": 3,
+        "cong": 7,
+        "yty": 2,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-06-26",
+      "rankings": {
+        "kyle": 3,
+        "cj": 2,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-06-27",
+      "rankings": {
+        "kyle": 2,
+        "cj": 1,
+        "baoxuan": 3,
+        "cong": 7,
+        "yty": 10,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-06-28",
+      "rankings": {
+        "kyle": 5,
+        "cj": 10,
+        "baoxuan": 1,
+        "cong": 3,
+        "yty": 2,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-06-29",
+      "rankings": {
+        "kyle": 3,
+        "cj": 7,
+        "baoxuan": 5,
+        "cong": 2,
+        "yty": 1,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-06-30",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-07-01",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 2,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-07-02",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 2,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-07-03",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-07-04",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 3,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-07-05",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 3,
+        "cong": 1,
+        "yty": 5,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-07-06",
+      "rankings": {
+        "kyle": 7,
+        "cj": 1,
+        "baoxuan": 3,
+        "cong": 10,
+        "yty": 2,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-07-07",
+      "rankings": {
+        "kyle": 5,
+        "cj": 7,
+        "baoxuan": 3,
+        "cong": 10,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-07-08",
+      "rankings": {
+        "kyle": 7,
+        "cj": 1,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 3,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-07-09",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 7,
+        "cong": 5,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-07-10",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-07-11",
+      "rankings": {
+        "kyle": 2,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 7,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-07-12",
+      "rankings": {
+        "kyle": 1,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 3,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-07-13",
+      "rankings": {
+        "kyle": 7,
+        "cj": 5,
+        "baoxuan": 3,
+        "cong": 10,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-07-14",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 1,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-07-15",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-07-16",
+      "rankings": {
+        "kyle": 10,
+        "cj": 1,
+        "baoxuan": 5,
+        "cong": 7,
+        "yty": 3,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-07-17",
+      "rankings": {
+        "kyle": 10,
+        "cj": 7,
+        "baoxuan": 2,
+        "cong": 1,
+        "yty": 5,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-07-18",
+      "rankings": {
+        "kyle": 0,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 2,
+        "yty": 7,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-07-19",
+      "rankings": {
+        "kyle": 7,
+        "cj": 10,
+        "baoxuan": 2,
+        "cong": 5,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-07-20",
+      "rankings": {
+        "kyle": 7,
+        "cj": 1,
+        "baoxuan": 2,
+        "cong": 3,
+        "yty": 5,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "rankings": {
+        "kyle": 5,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 1,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 3,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "rankings": {
+        "kyle": 10,
+        "cj": 7,
+        "baoxuan": 5,
+        "cong": 3,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-07-24",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 7,
+        "yty": 1,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-07-26",
+      "rankings": {
+        "kyle": 10,
+        "cj": 7,
+        "baoxuan": 3,
+        "cong": 5,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-07-27",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 1,
+        "cong": 7,
+        "yty": 3,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-07-28",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 3,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-07-29",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 3,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-07-30",
+      "rankings": {
+        "kyle": 7,
+        "cj": 10,
+        "baoxuan": 2,
+        "cong": 3,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-07-31",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-08-01",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 7,
+        "cong": 5,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-08-02",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 3,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-08-03",
+      "rankings": {
+        "kyle": 5,
+        "cj": 10,
+        "baoxuan": 1,
+        "cong": 3,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-08-04",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-08-05",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 7,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "rankings": {
+        "kyle": 2,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-08-07",
+      "rankings": {
+        "kyle": 5,
+        "cj": 10,
+        "baoxuan": 3,
+        "cong": 1,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-08-08",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 2,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-08-09",
+      "rankings": {
+        "kyle": 7,
+        "cj": 5,
+        "baoxuan": 2,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-08-10",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 1,
+        "cong": 7,
+        "yty": 3,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-08-11",
+      "rankings": {
+        "kyle": 1,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 2,
+        "yty": 7,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-08-12",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-08-13",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-08-14",
+      "rankings": {
+        "kyle": 5,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-08-15",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-08-16",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 3,
+        "cong": 2,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-08-17",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 1,
+        "cong": 3,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-08-18",
+      "rankings": {
+        "kyle": 2,
+        "cj": 10,
+        "baoxuan": 7,
+        "cong": 3,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-08-19",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 3,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-08-20",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-08-21",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 0,
+        "cong": 3,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-08-22",
+      "rankings": {
+        "kyle": 7,
+        "cj": 10,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 2,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-08-23",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 3,
+        "cong": 1,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-08-24",
+      "rankings": {
+        "kyle": 10,
+        "cj": 7,
+        "baoxuan": 5,
+        "cong": 3,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-08-25",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 5,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-08-26",
+      "rankings": {
+        "kyle": 5,
+        "cj": 1,
+        "baoxuan": 3,
+        "cong": 10,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-08-27",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-08-28",
+      "rankings": {
+        "kyle": 3,
+        "cj": 2,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-08-29",
+      "rankings": {
+        "kyle": 5,
+        "cj": 3,
+        "baoxuan": 10,
+        "cong": 2,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-08-30",
+      "rankings": {
+        "kyle": 7,
+        "cj": 10,
+        "baoxuan": 5,
+        "cong": 2,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-08-31",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 7,
+        "cong": 3,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-09-01",
+      "rankings": {
+        "kyle": 2,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-09-02",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 7,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-09-03",
+      "rankings": {
+        "kyle": 10,
+        "cj": 7,
+        "baoxuan": 3,
+        "cong": 1,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-09-04",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-09-05",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 10,
+        "cong": 3,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-09-06",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 1,
+        "cong": 2,
+        "yty": 7,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-09-07",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 7,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-09-08",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-09-09",
+      "rankings": {
+        "kyle": 10,
+        "cj": 7,
+        "baoxuan": 3,
+        "cong": 1,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-09-10",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 0,
+        "cong": 2,
+        "yty": 7,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-09-11",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-09-12",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-09-13",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 2,
+        "cong": 3,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-09-14",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 2,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-09-15",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-09-16",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 3,
+        "cong": 1,
+        "yty": 5,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-09-17",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 2,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-09-18",
+      "rankings": {
+        "kyle": 7,
+        "cj": 1,
+        "baoxuan": 5,
+        "cong": 2,
+        "yty": 3,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-09-19",
+      "rankings": {
+        "kyle": 5,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 2,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-09-20",
+      "rankings": {
+        "kyle": 7,
+        "cj": 2,
+        "baoxuan": 1,
+        "cong": 10,
+        "yty": 5,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-09-21",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 1,
+        "cong": 7,
+        "yty": 3,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-09-22",
+      "rankings": {
+        "kyle": 5,
+        "cj": 3,
+        "baoxuan": 10,
+        "cong": 1,
+        "yty": 2,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-09-23",
+      "rankings": {
+        "kyle": 5,
+        "cj": 2,
+        "baoxuan": 3,
+        "cong": 10,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-09-24",
+      "rankings": {
+        "kyle": 3,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-09-25",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 7,
+        "yty": 1,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-09-26",
+      "rankings": {
+        "kyle": 10,
+        "cj": 7,
+        "baoxuan": 5,
+        "cong": 3,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-09-27",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 10,
+        "cong": 2,
+        "yty": 7,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-09-28",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-09-29",
+      "rankings": {
+        "kyle": 5,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-09-30",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 3,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-10-01",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 2,
+        "cong": 3,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-10-02",
+      "rankings": {
+        "kyle": 7,
+        "cj": 10,
+        "baoxuan": 3,
+        "cong": 2,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-10-03",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 3,
+        "cong": 10,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-10-04",
+      "rankings": {
+        "kyle": 7,
+        "cj": 5,
+        "baoxuan": 3,
+        "cong": 2,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-10-05",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 2,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-10-06",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 1,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-10-07",
+      "rankings": {
+        "kyle": 1,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 3,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-10-08",
+      "rankings": {
+        "kyle": 1,
+        "cj": 7,
+        "baoxuan": 3,
+        "cong": 10,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-10-09",
+      "rankings": {
+        "kyle": 5,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 10,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-10-10",
+      "rankings": {
+        "kyle": 3,
+        "cj": 1,
+        "baoxuan": 10,
+        "cong": 7,
+        "yty": 2,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-10-11",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-10-12",
+      "rankings": {
+        "kyle": 1,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 7,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-10-13",
+      "rankings": {
+        "kyle": 3,
+        "cj": 7,
+        "baoxuan": 2,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-10-14",
+      "rankings": {
+        "kyle": 2,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-10-15",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-10-16",
+      "rankings": {
+        "kyle": 3,
+        "cj": 1,
+        "baoxuan": 10,
+        "cong": 2,
+        "yty": 7,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-10-17",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 3,
+        "cong": 7,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-10-18",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 7,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-10-19",
+      "rankings": {
+        "kyle": 2,
+        "cj": 1,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 7,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-10-20",
+      "rankings": {
+        "kyle": 2,
+        "cj": 1,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 5,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-10-21",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 3,
+        "cong": 1,
+        "yty": 7,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-10-22",
+      "rankings": {
+        "kyle": 3,
+        "cj": 1,
+        "baoxuan": 5,
+        "cong": 2,
+        "yty": 10,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-10-23",
+      "rankings": {
+        "kyle": 1,
+        "cj": 5,
+        "baoxuan": 2,
+        "cong": 3,
+        "yty": 7,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-10-24",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 3,
+        "cong": 1,
+        "yty": 7,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-10-25",
+      "rankings": {
+        "kyle": 7,
+        "cj": 10,
+        "baoxuan": 3,
+        "cong": 5,
+        "yty": 1,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-10-26",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 1,
+        "cong": 5,
+        "yty": 2,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-10-27",
+      "rankings": {
+        "kyle": 10,
+        "cj": 1,
+        "baoxuan": 7,
+        "cong": 3,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-10-28",
+      "rankings": {
+        "kyle": 3,
+        "cj": 10,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-10-29",
+      "rankings": {
+        "kyle": 1,
+        "cj": 2,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 5,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-10-30",
+      "rankings": {
+        "kyle": 2,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 1,
+        "yty": 7,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-10-31",
+      "rankings": {
+        "kyle": 5,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 2,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-11-01",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 3,
+        "cong": 7,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-11-02",
+      "rankings": {
+        "kyle": 1,
+        "cj": 7,
+        "baoxuan": 10,
+        "cong": 2,
+        "yty": 3,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-11-03",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 2,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-11-04",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 3,
+        "yty": 1,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-11-05",
+      "rankings": {
+        "kyle": 1,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 7,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-11-06",
+      "rankings": {
+        "kyle": 3,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 1,
+        "yty": 2,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-11-07",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 10,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-11-08",
+      "rankings": {
+        "kyle": 3,
+        "cj": 1,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 2,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-11-09",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 7,
+        "cong": 5,
+        "yty": 1,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-11-10",
+      "rankings": {
+        "kyle": 1,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 3,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-11-11",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 1,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-11-12",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 1,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-11-13",
+      "rankings": {
+        "kyle": 1,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 3,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-11-14",
+      "rankings": {
+        "kyle": 10,
+        "cj": 10,
+        "baoxuan": 10,
+        "cong": 10,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-11-15",
+      "rankings": {
+        "kyle": 1,
+        "cj": 7,
+        "baoxuan": 2,
+        "cong": 3,
+        "yty": 10,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-11-16",
+      "rankings": {
+        "kyle": 7,
+        "cj": 5,
+        "baoxuan": 3,
+        "cong": 10,
+        "yty": 1,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-11-17",
+      "rankings": {
+        "kyle": 3,
+        "cj": 7,
+        "baoxuan": 10,
+        "cong": 1,
+        "yty": 2,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-11-18",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 1,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-11-19",
+      "rankings": {
+        "kyle": 1,
+        "cj": 7,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 2,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-11-20",
+      "rankings": {
+        "kyle": 3,
+        "cj": 7,
+        "baoxuan": 10,
+        "cong": 5,
+        "yty": 1,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-11-21",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-11-22",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 3,
+        "cong": 7,
+        "yty": 1,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-11-23",
+      "rankings": {
+        "kyle": 10,
+        "cj": 7,
+        "baoxuan": 5,
+        "cong": 3,
+        "yty": 1,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-11-24",
+      "rankings": {
+        "kyle": 2,
+        "cj": 1,
+        "baoxuan": 5,
+        "cong": 7,
+        "yty": 10,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-11-25",
+      "rankings": {
+        "kyle": 5,
+        "cj": 2,
+        "baoxuan": 3,
+        "cong": 7,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-11-26",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 7,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-11-27",
+      "rankings": {
+        "kyle": 3,
+        "cj": 1,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 10,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-11-28",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 7,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-11-29",
+      "rankings": {
+        "kyle": 2,
+        "cj": 10,
+        "baoxuan": 5,
+        "cong": 3,
+        "yty": 7,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-11-30",
+      "rankings": {
+        "kyle": 2,
+        "cj": 7,
+        "baoxuan": 10,
+        "cong": 5,
+        "yty": 1,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-12-01",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 7,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-12-02",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 10,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-12-03",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 5,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-12-04",
+      "rankings": {
+        "kyle": 5,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 1,
+        "yty": 10,
+        "issac": 7
+      }
+    },
+    {
+      "date": "2025-12-05",
+      "rankings": {
+        "kyle": 7,
+        "cj": 3,
+        "baoxuan": 2,
+        "cong": 10,
+        "yty": 1,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-12-06",
+      "rankings": {
+        "kyle": 1,
+        "cj": 7,
+        "baoxuan": 10,
+        "cong": 5,
+        "yty": 3,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-12-07",
+      "rankings": {
+        "kyle": 5,
+        "cj": 1,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 3,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-12-08",
+      "rankings": {
+        "kyle": 2,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 10,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-12-09",
+      "rankings": {
+        "kyle": 1,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 10,
+        "yty": 7,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-12-10",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 10,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-12-11",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 10,
+        "cong": 1,
+        "yty": 7,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-12-12",
+      "rankings": {
+        "kyle": 2,
+        "cj": 3,
+        "baoxuan": 5,
+        "cong": 7,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-12-13",
+      "rankings": {
+        "kyle": 7,
+        "cj": 10,
+        "baoxuan": 2,
+        "cong": 3,
+        "yty": 1,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-12-14",
+      "rankings": {
+        "kyle": 10,
+        "cj": 1,
+        "baoxuan": 3,
+        "cong": 5,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-12-15",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 3,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-12-16",
+      "rankings": {
+        "kyle": 5,
+        "cj": 10,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 3,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-12-17",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 10,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-12-18",
+      "rankings": {
+        "kyle": 2,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 3,
+        "yty": 10,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-12-19",
+      "rankings": {
+        "kyle": 2,
+        "cj": 10,
+        "baoxuan": 3,
+        "cong": 7,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-12-20",
+      "rankings": {
+        "kyle": 5,
+        "cj": 3,
+        "baoxuan": 10,
+        "cong": 7,
+        "yty": 2,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-12-21",
+      "rankings": {
+        "kyle": 5,
+        "cj": 1,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 3,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-12-22",
+      "rankings": {
+        "kyle": 10,
+        "cj": 7,
+        "baoxuan": 2,
+        "cong": 1,
+        "yty": 5,
+        "issac": 3
+      }
+    },
+    {
+      "date": "2025-12-23",
+      "rankings": {
+        "kyle": 1,
+        "cj": 10,
+        "baoxuan": 7,
+        "cong": 5,
+        "yty": 3,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-12-24",
+      "rankings": {
+        "kyle": 2,
+        "cj": 10,
+        "baoxuan": 3,
+        "cong": 1,
+        "yty": 7,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2025-12-25",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-12-26",
+      "rankings": {
+        "kyle": 5,
+        "cj": 10,
+        "baoxuan": 3,
+        "cong": 1,
+        "yty": 7,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-12-27",
+      "rankings": {
+        "kyle": 7,
+        "cj": 5,
+        "baoxuan": 1,
+        "cong": 3,
+        "yty": 10,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-12-28",
+      "rankings": {
+        "kyle": 10,
+        "cj": 1,
+        "baoxuan": 7,
+        "cong": 3,
+        "yty": 5,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2025-12-29",
+      "rankings": {
+        "kyle": 1,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 5,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2025-12-30",
+      "rankings": {
+        "kyle": 10,
+        "cj": 3,
+        "baoxuan": 7,
+        "cong": 2,
+        "yty": 5,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2025-12-31",
+      "rankings": {
+        "kyle": 10,
+        "cj": 5,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 3,
+        "issac": 2
+      }
+    },
+    {
+      "date": "2026-01-01",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 7,
+        "cong": 1,
+        "yty": 3,
+        "issac": 5
+      }
+    },
+    {
+      "date": "2026-01-02",
+      "rankings": {
+        "kyle": 10,
+        "cj": 2,
+        "baoxuan": 5,
+        "cong": 7,
+        "yty": 3,
+        "issac": 1
+      }
+    },
+    {
+      "date": "2026-01-03",
+      "rankings": {
+        "kyle": 5,
+        "cj": 7,
+        "baoxuan": 1,
+        "cong": 3,
+        "yty": 2,
+        "issac": 10
+      }
+    },
+    {
+      "date": "2026-01-04",
+      "rankings": {
+        "kyle": 3,
+        "cj": 2,
+        "baoxuan": 7,
+        "cong": 10,
+        "yty": 5,
+        "issac": 1
+      }
+    }
+  ]
+}

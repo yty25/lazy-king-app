@@ -1,0 +1,117 @@
+{
+  "versions": [
+    {
+      "version": "V1.0",
+      "title": "经典版",
+      "content": "本比赛积分仅由每日微信群聊中发送\"兄弟们起床\"表情包先后顺序决定，无其他情况影响积分。",
+      "detail": "P1:10分 P2:7分 P3:5分 P4:3分 P5:2分 P6:1分。当日未打卡则计为退赛，记0分。"
+    },
+    {
+      "version": "V2.0",
+      "title": "团队赛版",
+      "content": "第二季度开始新增团队赛，每个月选择一周进行随机分组3v3团队比拼，最终结果根据三人积分总和对比决出懒觉团队，懒觉团队三人均要受罚，个人积分照常统计计入个人结果，团队比赛结果仅限当周惩罚决定。"
+    },
+    {
+      "version": "V3.0",
+      "title": "惩罚执行版",
+      "content": "获得了惩罚但是未执行，一周之后开始每天扣除一积分，并且未执行惩罚的人无法获得道具卡。"
+    },
+    {
+      "version": "V4.0",
+      "title": "赌怪版",
+      "content": "赌怪版本，根据最新版本主题，每个周末名次由摇骰子决定，点数1对应P1，点数6对应P6。由低到高排序，相同点数根据先后打卡顺序决定排名。"
+    }
+  ],
+  "supplements": [
+    "每日最早打卡时间为当日早上6:00，该时间之前的打卡成绩无效，需6:00后再次打卡。",
+    "每日中午12:00以后打卡即为退赛，记0分。（2025.1.22日新增）节假日以及周末没有中午12点前打卡限制，当日6点以后打卡均有效。",
+    "打卡需判决有效性，打卡后未真实起床，睡回笼觉，无法在规定时间（暂定早上10点-12点）内反馈消息证实起床判定为打卡异常，未反馈消息但能证实已起床可申请打卡有效，主管审批通过后申请通过。（2025-01-16新增）工作日打卡后每小时要在群里发消息证明，或打卡后拍一张行为照或外出照证实真实起床性。",
+    "当两人积分一致时，则出现多名积分王和懒觉王。",
+    "每年的一月三号，所有人不得比issac先打卡，issac打卡必须是打字打卡，不得发送表情包，其余兄弟不得先于issac打卡，先于issac打卡则扣除对应名次积分，且打卡必须使用甄子丹表情包。",
+    "本比赛最终解释权归专业团队主管Kyle Chen所有。"
+  ],
+  "penalties": [
+    {"id": 1, "name": "唱歌", "proposedBy": "yty", "description": "全民K歌唱一首完整曲目发到群里，歌曲由积分王指定。", "detail": "选择次数最多"},
+    {"id": 2, "name": "V50", "proposedBy": "yty", "description": "给积分王V50疯狂星期四。"},
+    {"id": 3, "name": "读书", "proposedBy": "issac", "description": "一周内读一本书并在第二周给出总结，书籍由积分王指定。"},
+    {"id": 4, "name": "运动", "proposedBy": "issac", "description": "由积分王指定一项运动与周期，在周期内完成该运动并录像打卡。"},
+    {"id": 5, "name": "短视频", "proposedBy": "聪", "description": "由积分王指定一个抖音热梗短视频，懒觉王一比一复刻录制并展示，视频需时长合理，道德合规无不良影响。"},
+    {"id": 6, "name": "祝早", "proposedBy": "", "description": "第二季度新增惩罚，懒觉王需对积分王在一周的某一天进行祝早。祝早内容不限，但需情感饱满，真情实意，积分王进行打分。"}
+  ],
+  "rewards": [
+    {"rank": "P1", "title": "积分王"},
+    {"rank": "P2", "title": "博起王"},
+    {"rank": "P3", "title": "赌王"},
+    {"rank": "P4", "title": "绿茶王"},
+    {"rank": "P5", "title": "下流王"},
+    {"rank": "P6", "title": "懒觉王"}
+  ],
+  "props": [
+    {"name": "早起券", "description": "当日直升P1", "rating": "自保T0", "rules": ["可使使用者在当日直接成为P1", "只能再当日使用，无法修改之前日期的名次", "只能当日第一使用人有效，后续使用人无效", "无法在团队赛期间使用"]},
+    {"name": "交换卡", "description": "随机与当日一名兄弟的排名交换", "rating": "看脸", "rules": ["可将自己的名次随机与当日一名兄弟的排名进行交换", "只能在当日使用，无法修改之前日期的名次", "无使用上限，可以多人同时使用"]},
+    {"name": "捣蛋卡", "description": "随机两名除自己以外的兄弟名次交换", "rating": "小折磨", "rules": ["可将随机两名除自己以外兄弟的当日名次进行交换", "只能在当日使用，无法修改之前日期的名次", "无使用上限，可以多人同时使用"]},
+    {"name": "平等券", "description": "选择一名兄弟当日名次变得和自己一样", "rating": "有福同享", "rules": ["可以选择一名兄弟，将他的当日名次变得和自己一样", "只能在当日使用，无法修改之前日期的名次", "只能当日第一使用人有效，后续使用人无效"]},
+    {"name": "小姐牌", "description": "成为懒觉王时拉一位兄弟一起受罚", "rating": "陪伴", "rules": ["小姐牌拥有者可在成为当周懒觉王时选择一位兄弟一起进行惩罚", "只能在成为懒觉王时使用", "无法在团队赛期间使用"]},
+    {"name": "洗牌卡", "description": "将当日所有人的名次全部随机打乱重排", "rating": "节目效果", "rules": ["可以将当日所有人的名次全部随机打乱重排", "只能在6位兄弟都完成打卡后使用", "只能当日前二使用人有效，后续使用人无效"]}
+  ],
+  "lazyKingHall": {
+    "totalWeeks": 52,
+    "mostLazyKing": "issac",
+    "mostLazyCount": 27,
+    "weeklyChampions": [
+      {"week": "2024-week52", "name": "ISSAC", "penalty": "唱歌（恭喜发财）", "link": "链接：https://pan.baidu.com/s/1JVDIYsPqKCg1aINcn4BYnA 提取码：CPvr"},
+      {"week": "2025-week1", "name": "宝宣", "penalty": "唱歌（男孩）"},
+      {"week": "2025-week2", "name": "CJ", "penalty": "唱歌（爱拼才会赢）"},
+      {"week": "2025-week3", "name": "宝宣", "penalty": "唱歌（突然的自我）"},
+      {"week": "2025-week4", "name": "ISSAC", "penalty": "唱歌（唱支山歌给党听）"},
+      {"week": "2025-week5", "name": "ISSAC", "penalty": "唱歌（第一天）"},
+      {"week": "2025-week6", "name": "ISSAC", "penalty": "视频（生姜人meme）"},
+      {"week": "2025-week7", "name": "Kyle", "penalty": "运动（俯卧撑）"},
+      {"week": "2025-week8", "name": "ISSAC", "penalty": "唱歌（孤独患者）"},
+      {"week": "2025-week9", "name": "ISSAC", "penalty": "唱歌（猪猪侠）"},
+      {"week": "2025-week10", "name": "ISSAC", "penalty": "唱歌（上海滩）"},
+      {"week": "2025-week11", "name": "ISSAC", "penalty": "唱歌（apt）"},
+      {"week": "2025-week12", "name": "ISSAC/聪", "penalty": "唱歌（舞女泪/来财）"},
+      {"week": "2025-week13", "name": "ISSAC", "penalty": "唱歌（阳光彩虹小白马）"},
+      {"week": "2025-week14", "name": "ISSAC", "penalty": "唱歌（一千年以后）"},
+      {"week": "2025-week15", "name": "聪", "penalty": "玩梗（阳光芬达）"},
+      {"week": "2025-week16-团队赛", "name": "ISSAC/聪/宝宣", "penalty": "唱歌（如果懒觉了)"},
+      {"week": "2025-week17", "name": "聪", "penalty": "玩梗（时代少年团）"},
+      {"week": "2025-week18", "name": "ISSAC", "penalty": "唱歌（大展鸿图）"},
+      {"week": "2025-week19", "name": "ISSAC", "penalty": "唱歌（兄弟爱）"},
+      {"week": "2025-week20-团队赛", "name": "CJ/Kyle", "penalty": "唱歌（爱如火）"},
+      {"week": "2025-week21", "name": "CJ", "penalty": "唱歌（过火）"},
+      {"week": "2025-week22", "name": "ISSAC", "penalty": "唱歌（紧急联络人)"},
+      {"week": "2025-week23", "name": "ISSAC", "penalty": "唱歌（lemon时代版）"},
+      {"week": "2025-week24", "name": "ISSAC", "penalty": "唱歌（紧急联络人）"},
+      {"week": "2025-week25-团队赛", "name": "ISSAC/宝宣", "penalty": "唱歌（如果懒觉了）"},
+      {"week": "2025-week26", "name": "聪", "penalty": "唱歌（说谎）"},
+      {"week": "2025-week27", "name": "ISSAC", "penalty": "唱歌（千千阙歌）"},
+      {"week": "2025-week28", "name": "聪", "penalty": "唱歌（deadman）"},
+      {"week": "2025-week29", "name": "ISSAC", "penalty": "唱歌（路灯下的小妹妹）"},
+      {"week": "2025-week30", "name": "ISSAC", "penalty": "炫一瓶啤酒"},
+      {"week": "2025-week31", "name": "ISSAC", "penalty": "吃一口芥末"},
+      {"week": "2025-week32", "name": "ISSAC", "penalty": "欠着"},
+      {"week": "2025-week33", "name": "ISSAC", "penalty": "欠着"},
+      {"week": "2025-week34", "name": "ISSAC", "penalty": "欠着"},
+      {"week": "2025-week35", "name": "Kyle", "penalty": "欠着"},
+      {"week": "2025-week36", "name": "聪", "penalty": "欠着"},
+      {"week": "2025-week37", "name": "ISSAC", "penalty": "欠着"},
+      {"week": "2025-week38", "name": "ISSAC", "penalty": "欠着"},
+      {"week": "2025-week39", "name": "聪", "penalty": "欠着"},
+      {"week": "2025-week40", "name": "Kyle", "penalty": "欠着"},
+      {"week": "2025-week41", "name": "ISSAC", "penalty": "欠着"},
+      {"week": "2025-week42", "name": "CJ/聪", "penalty": "欠着"},
+      {"week": "2025-week43", "name": "聪", "penalty": "欠着"},
+      {"week": "2025-week44", "name": "Kyle/CJ", "penalty": "欠着"},
+      {"week": "2025-week45", "name": "ISSAC", "penalty": "欠着"},
+      {"week": "2025-week46", "name": "ISSAC", "penalty": "欠着"},
+      {"week": "2025-week47", "name": "c", "penalty": "欠着"},
+      {"week": "2025-week48", "name": "Kyle", "penalty": "欠着"},
+      {"week": "2025-week49", "name": "ISSAC", "penalty": "欠着"},
+      {"week": "2025-week50", "name": "ISSAC", "penalty": "欠着"},
+      {"week": "2025-week51", "name": "ISSAC", "penalty": "欠着"},
+      {"week": "2025-week52", "name": "CJ", "penalty": "欠着"}
+    ]
+  }
+}

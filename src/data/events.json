@@ -1,0 +1,37 @@
+{
+  "lolTournament": {
+    "title": "第一届专业团队LOLm SOLO王单挑锦标赛",
+    "players": ["kyle", "cj", "baoxuan", "cong", "yty", "issac"],
+    "exhibition": "yty vs issac（鳄鱼VS剑姬）",
+    "groups": [
+      {"group": "A", "player1": "CJ", "player2": "Kyle", "result": "2:1", "winner": "CJ"},
+      {"group": "B", "player1": "宝宣", "player2": "Issac", "result": "0:2", "winner": "ISSAC"},
+      {"group": "C", "player1": "YTY", "player2": "聪", "result": "0:1", "winner": "聪"}
+    ],
+    "winnerBracket": [
+      {"player1": "CJ", "player2": "ISSAC", "result": "1:2", "winner": "ISSAC"},
+      {"player1": "ISSAC", "player2": "聪", "result": "2:1", "winner": "ISSAC"},
+      {"player1": "聪", "player2": "CJ", "result": "1:2", "winner": "CJ"}
+    ],
+    "loserBracket": [
+      {"player1": "宝宣", "player2": "主管", "result": "2:1", "winner": "宝宣"},
+      {"player1": "主管", "player2": "yty", "result": "1:2", "winner": "yty"},
+      {"player1": "yty", "player2": "宝宣", "result": "2:1", "winner": "yty"}
+    ],
+    "knockout": [
+      {"round": "第一局", "player1": "yty", "player2": "聪", "result": "0:1", "winner": "聪"},
+      {"round": "第二局", "player1": "聪", "player2": "CJ", "result": "0:2", "winner": "CJ"}
+    ],
+    "final": {"player1": "CJ", "player2": "ISSAC", "result": "0:2", "winner": "ISSAC"},
+    "ranking": {"champion": "ISSAC", "runnerUp": "CJ", "third": "聪"},
+    "reward": "冠军获得懒觉王比赛无条件P1✝️3次，亚军2次，季军1次"
+  },
+  "pokerTournament": {
+    "title": "第一届兄弟团赌怪比赛",
+    "game": "德州扑克",
+    "rounds": 20,
+    "initialScore": 1200,
+    "results": {"kyle": -30, "cj": -1, "baoxuan": -30, "cong": -3, "yty": 54, "issac": 10},
+    "winner": "yty"
+  }
+}

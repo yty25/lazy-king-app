@@ -1,0 +1,75 @@
+{
+  "pages": [
+    {
+      "path": "pages/ranking/index",
+      "style": {
+        "navigationBarTitleText": "排行",
+        "navigationBarBackgroundColor": "#1a1a2e",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/search/index",
+      "style": {
+        "navigationBarTitleText": "查询",
+        "navigationBarBackgroundColor": "#1a1a2e",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/rules/index",
+      "style": {
+        "navigationBarTitleText": "规则",
+        "navigationBarBackgroundColor": "#1a1a2e",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/fun/index",
+      "style": {
+        "navigationBarTitleText": "娱乐",
+        "navigationBarBackgroundColor": "#1a1a2e",
+        "navigationBarTextStyle": "white"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "懒觉王比赛",
+    "navigationBarBackgroundColor": "#1a1a2e",
+    "backgroundColor": "#1a1a2e",
+    "backgroundColorContent": "#1a1a2e"
+  },
+  "tabBar": {
+    "color": "#7a7a9e",
+    "selectedColor": "#FF6B35",
+    "backgroundColor": "#1a1a2e",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/ranking/index",
+        "text": "排行",
+        "iconPath": "static/icons/ranking.png",
+        "selectedIconPath": "static/icons/ranking-active.png"
+      },
+      {
+        "pagePath": "pages/search/index",
+        "text": "查询",
+        "iconPath": "static/icons/search.png",
+        "selectedIconPath": "static/icons/search-active.png"
+      },
+      {
+        "pagePath": "pages/rules/index",
+        "text": "规则",
+        "iconPath": "static/icons/rules.png",
+        "selectedIconPath": "static/icons/rules-active.png"
+      },
+      {
+        "pagePath": "pages/fun/index",
+        "text": "娱乐",
+        "iconPath": "static/icons/fun.png",
+        "selectedIconPath": "static/icons/fun-active.png"
+      }
+    ]
+  }
+}
