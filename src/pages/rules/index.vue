@@ -184,11 +184,7 @@ function openLink(link) {
   })
 }
 
-onMounted(() => {
-  if (Object.keys(store.rules).length === 0) {
-    store.fetchAllData()
-  }
-})
+
 </script>
 
 <style lang="scss" scoped>

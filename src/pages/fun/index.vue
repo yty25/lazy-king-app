@@ -281,11 +281,7 @@ function openLink(link) {
   })
 }
 
-onMounted(() => {
-  if (!store.events?.lolTournament) {
-    store.fetchAllData()
-  }
-})
+
 </script>
 
 <style lang="scss" scoped>

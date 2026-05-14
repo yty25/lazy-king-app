@@ -162,11 +162,7 @@ function onPlayerClick(player) {
   // 预留：点击选手弹出详情
 }
 
-onMounted(() => {
-  if (store.weeklyData.weeks?.length === 0) {
-    store.fetchAllData()
-  }
-})
+
 </script>
 
 <style lang="scss" scoped>
